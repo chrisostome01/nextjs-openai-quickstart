@@ -13,7 +13,6 @@
   "bugs": {
     "url": "https://github.com/sezeranoJchrisostome/nextjs-openai-quickstart/issues"
   },
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
