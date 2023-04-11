@@ -14,7 +14,6 @@ This repository provides a starter template for building Node.js projects with T
 1.  Clone the repository: `git clone git@github.com:sezeranoJchrisostome/nextjs-openai-quickstart.git`
 2.  Install dependencies: `npm install`
 3.  Add .env file and checkout .env.example file for the sercet key reference.
-3.  Start the server: `npm dev`
 
 ## Scripts
 
